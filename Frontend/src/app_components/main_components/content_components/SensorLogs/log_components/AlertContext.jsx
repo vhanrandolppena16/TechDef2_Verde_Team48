@@ -100,7 +100,7 @@ export const AlertProvider = ({ children }) => {
 
   // Live Firebase subscription (runs once)
   useEffect(() => {
-    const sensorRef = ref(sensor_db, "sensor_logs");
+    const sensorRef = ref(sensor_db, "predictions_4");
 // 
     // const sensorRef = ref(sensor_db, "control_logging");
 
