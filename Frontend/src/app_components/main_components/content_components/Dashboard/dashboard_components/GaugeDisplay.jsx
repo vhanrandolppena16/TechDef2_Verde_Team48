@@ -32,8 +32,8 @@ const SensorReadings = ({ temperature, humidity, pH, tds }) => {
         unit="%"
         customRanges={[
           { stop: 0, color: "red" },
-          { stop: 40, color: "orange" },
-          { stop: 80, color: "green" },
+          { stop: 40, color: "green" },
+          { stop: 80, color: "orange" },
           { stop: 100, color: "blue" },
         ]}
       />
