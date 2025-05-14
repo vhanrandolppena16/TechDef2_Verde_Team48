@@ -9,6 +9,18 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+
+// Your web app's Firebase configuration: Team48-verde2
+const firebaseConfig = {
+  apiKey: "AIzaSyDKCeY_5z4UDwROSXIeY-G0k9nk9k9XweU",
+  authDomain: "team48-verde2.firebaseapp.com",
+  databaseURL: "https://team48-verde2-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "team48-verde2",
+  storageBucket: "team48-verde2.firebasestorage.app",
+  messagingSenderId: "65532062201",
+  appId: "1:65532062201:web:7bf41a0917953d762a7528"
+};
+
 // Firebase Project: final-verde-team48
     // const firebaseConfig = {
     //   apiKey: "AIzaSyCuuRkyQusCjAXy9kkbqZkF2rdzlG0L4i8",
@@ -21,16 +33,16 @@ import { getDatabase } from "firebase/database";
     //   measurementId: "G-46JWNNQLG8"
     // };
 
-// Firebase Project: team48-verde
-  const firebaseConfig = {
-      apiKey: "AIzaSyBpDp4pPn9ucNzO9wmYPhNyb0_qjiZU3AM",
-      authDomain: "team48-verde-c2395.firebaseapp.com",
-      databaseURL: "https://team48-verde-c2395-default-rtdb.asia-southeast1.firebasedatabase.app",
-      projectId: "team48-verde-c2395",
-      storageBucket: "team48-verde-c2395.firebasestorage.app",
-      messagingSenderId: "256046721455",
-      appId: "1:256046721455:web:64a9a42b96512639f7275a"
-    };
+// // Firebase Project: team48-verde
+//   const firebaseConfig = {
+//       apiKey: "AIzaSyBpDp4pPn9ucNzO9wmYPhNyb0_qjiZU3AM",
+//       authDomain: "team48-verde-c2395.firebaseapp.com",
+//       databaseURL: "https://team48-verde-c2395-default-rtdb.asia-southeast1.firebasedatabase.app",
+//       projectId: "team48-verde-c2395",
+//       storageBucket: "team48-verde-c2395.firebasestorage.app",
+//       messagingSenderId: "256046721455",
+//       appId: "1:256046721455:web:64a9a42b96512639f7275a"
+//     };
 
 // Firebase Project: manual-database
   // const firebaseConfig = {
