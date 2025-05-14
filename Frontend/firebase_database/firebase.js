@@ -14,6 +14,7 @@ import { getDatabase } from "firebase/database";
 const firebaseConfig = {
   apiKey: "AIzaSyAUY1fplvSnPG4GF4T4xjIwCR8zTtV9a0A",
   authDomain: "team48-verde2-a29cb.firebaseapp.com",
+  databaseURL: "https://team48-verde2-a29cb-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "team48-verde2-a29cb",
   storageBucket: "team48-verde2-a29cb.firebasestorage.app",
   messagingSenderId: "607317287701",
