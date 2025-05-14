@@ -12,14 +12,15 @@ import { getDatabase } from "firebase/database";
 
 // Your web app's Firebase configuration: Team48-verde2
 const firebaseConfig = {
-  apiKey: "AIzaSyDKCeY_5z4UDwROSXIeY-G0k9nk9k9XweU",
-  authDomain: "team48-verde2.firebaseapp.com",
-  databaseURL: "https://team48-verde2-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "team48-verde2",
-  storageBucket: "team48-verde2.firebasestorage.app",
-  messagingSenderId: "65532062201",
-  appId: "1:65532062201:web:7bf41a0917953d762a7528"
+  apiKey: "AIzaSyAUY1fplvSnPG4GF4T4xjIwCR8zTtV9a0A",
+  authDomain: "team48-verde2-a29cb.firebaseapp.com",
+  projectId: "team48-verde2-a29cb",
+  storageBucket: "team48-verde2-a29cb.firebasestorage.app",
+  messagingSenderId: "607317287701",
+  appId: "1:607317287701:web:42b5c90140b4d4db767f1c",
+  measurementId: "G-ETYXY8Q4QN"
 };
+
 
 // Firebase Project: final-verde-team48
     // const firebaseConfig = {
